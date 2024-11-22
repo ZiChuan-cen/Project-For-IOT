@@ -17,12 +17,12 @@
 int main(void)
 {
 
-  PWM_Init();
+    PWM_Init();
 
-  while (1)
+    while (1)
     {
-      PWM_SetCompare3(0);
-      PWM_SetCompare4(3600);
+        PWM_SetCompare3(0);
+        PWM_SetCompare4(3600);
     }
 }
 

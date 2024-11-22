@@ -10,7 +10,8 @@
       <TargetName>工程模板</TargetName>
       <ToolsetNumber>0x4</ToolsetNumber>
       <ToolsetName>ARM-ADS</ToolsetName>
-      <pCCUsed>5060528::V5.06 update 5 (build 528)::ARMCC</pCCUsed>
+      <pArmCC>5060960::V5.06 update 7 (build 960)::.\AMRCC</pArmCC>
+      <pCCUsed>5060960::V5.06 update 7 (build 960)::.\AMRCC</pCCUsed>
       <uAC6>0</uAC6>
       <TargetOption>
         <TargetCommonOption>
